@@ -32,6 +32,9 @@ header{
   max-width: 1200px;
   margin: 0 auto;
 }
+header.car{
+  background-image: url(./img/headerBGCar.png);
+}
 body{
   margin: 0px;
   font-family: 'Nunito Sans', sans-serif;
